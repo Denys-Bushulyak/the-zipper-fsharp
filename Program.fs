@@ -73,5 +73,4 @@ let t =
 
 let loc = Loc(t, Top)
 
-
-printfn "Initial tree: %A" (loc |> insert_right (Item "-"))
+printfn "Initial tree: %A" loc
