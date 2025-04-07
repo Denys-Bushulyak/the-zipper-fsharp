@@ -11,6 +11,10 @@ HUET G. The Zipper. Journal of Functional Programming. 1997;7(5):549-554. doi:10
 - Lightweight and performant.
 - Code coverage is 100%.
 
+## Links
+
+[Rust implementation](https://github.com/Denys-Bushulyak/the-zipper)
+
 ## License
 
 This project is licensed under the MIT License.
